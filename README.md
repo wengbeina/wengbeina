@@ -1,15 +1,5 @@
-🐳12345，上山打老虎，程序员可以干一辈子，一直写bug，一直改bug  
-👻五流开外的垃圾，脾气不好性格差，不懂礼貌  
-👀但是还是得活着  
-👒平庸的人，但是希望能有自己的主见
-
-- 👋 Hi, I’m @wengbeina
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-wengbeina/wengbeina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🐳 12345，上山打老虎  
+🤖 希望程序员可以干一辈子，一直写bug，一直改bug，但毕竟是谋生的技能  
+👻 五流开外的技术垃圾，脾气不好性格差，不懂礼貌  
+👀 但是还是得活着  
+👒 平庸的人，但是希望能有自己的主见，不会再因为别人说什么而改变自己最出的想法
